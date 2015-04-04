@@ -71,17 +71,19 @@ h6 {
 
 img {
   border: 0;
+  margin: 10px;
+  width: 300px;
 }
 
 header {
-  margin: 20px 20px 0px 20px;
+  margin: 20px;
   padding: 10px;
   border: 5px solid #ccc;
   background: #666;
 }
 
 section {
-  margin: 20px 190px 20px 190px;
+  margin: 20px;
   padding: 10px;
   border: 5px solid #ccc;
   background: #666;
@@ -89,15 +91,14 @@ section {
 
 div.container {
   font-size: 12px;
-  line-height: 22px;
-  margin-top: 20px;
-  margin-bottom: 10px;
+  margin: 10px;
+  padding: 10px;
 }
 
 div.trend,
 div.qb,
 div.headlines {
-  height: 100px;
+  padding: 10px;
   background-color: lightgray;
   color: black;
 }
