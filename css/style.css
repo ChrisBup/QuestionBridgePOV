@@ -1,0 +1,22 @@
+html, body {
+ font-family: Open Sans;
+ margin: 0;
+ padding: 0;
+}
+
+header {
+  background: gray;
+}
+
+section {
+  background: darkgray;
+}
+
+footer {
+  background: gray
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+}
