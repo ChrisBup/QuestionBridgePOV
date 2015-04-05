@@ -28,15 +28,15 @@ body {
   padding: 0;
 }
 
-/*.headline-card {
-  height: 10px;
-}*/
-
 h1 {
   color: lightgray;
   text-align: center;
   margin: 10px;
   padding: 10px;
+}
+
+h2 {
+  color: lightgray;
 }
 
 .bump-right {
@@ -45,8 +45,11 @@ h1 {
 }
 
 div.spacer {
-  height: 200px;
-  background-color: black;
+  height: 150px;
+}
+
+div.mini-spacer {
+  height: 20px;
 }
 
 .logo {
